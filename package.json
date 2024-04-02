@@ -18,7 +18,7 @@
 	"contributes": {
 		"snippets": [
 			{
-				"language": "html",
+				"language": "eta",
 				"path": "./snippets/snippets.json"
 			}
 		]
